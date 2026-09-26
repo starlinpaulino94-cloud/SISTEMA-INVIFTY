@@ -1,0 +1,6 @@
+{
+  "name": "Invifty 2.0 — Studio & Client Event Operating System",
+  "description": "Sistema operativo de producción y gestión integral de invitaciones digitales de alta gama, orquestación VIP, RSVP en tiempo real y Atelier Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
